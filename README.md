@@ -6,7 +6,7 @@
 ### Main Dashboard
 ![dash](https://user-images.githubusercontent.com/42421298/49975025-c70e2800-fef0-11e8-9fb1-c7ed559e7dc3.PNG)
 
-### Add and Order
+### Add an Order
 ![add](https://user-images.githubusercontent.com/42421298/49975026-c70e2800-fef0-11e8-95ac-ca663ca2686d.PNG)
 
 ### Edit and Order
