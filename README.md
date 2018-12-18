@@ -14,3 +14,11 @@
 
 ### Edit or Reopen a Completed Order
 ![edit2](https://user-images.githubusercontent.com/42421298/49975028-c70e2800-fef0-11e8-9def-d6b386bcbc46.PNG)
+
+### Technologies Used: 
+* Java
+* MySQL
+* Spring Boot 
+* Bootstrap
+
+
