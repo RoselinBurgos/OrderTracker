@@ -1,5 +1,5 @@
 # OrderTracker
-
+#### Custom Order tracker made for Takotsubo Clothing. Users can Register and Login, add/create orders, add order information such as description, order date and order due date. User can also edit, delete and mark orders as completed. 
 ### Registration & Login Page
 ![login](https://user-images.githubusercontent.com/42421298/49975023-c6759180-fef0-11e8-8d61-48fc7b10abb3.PNG)
 
